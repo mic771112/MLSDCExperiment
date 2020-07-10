@@ -1,6 +1,7 @@
 *.h5
+**/*.csv
 **/.ipynb_checkpoints/*
-*/PetImages/*
+**/PetImages/*
 _*.ipynb
 *.zip
 *model.png*
