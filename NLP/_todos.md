@@ -1,17 +1,27 @@
 TODOS:
 
-- Found 2nd EDA:
-    * linear model can do well already
-    * ponctuation handeling (fuck!!!)
+- 
+
+- Found worthy to explore:
+    *o linear model can do well already
+    *o ponctuation handeling (fuck!!!)
     * joint words split (fuckyourdaddy)
     * bad word rule coverage & rest/worng cases check (it is fucking good!)
-    * char level n-gram feature 
-    * sentiment helps
+    *o char level n-gram feature 
+    *? sentiment helps
     * worng classified check
-    ** skip char model (f**k you)
-    * external knowledge levergement (bad word dict / corpus)
+    *x skip char model (f**k you)
     
+    * how to eval embedded quality???????
+
     * char level embedding 
+    * treate this as ture a multilabel problem (binary encode)
+    * replace mis-classified training data from testing data.
+    
+    * external knowledge levergement (bad word dict / corpus)
+    * spell check
+    * TTA
+    * 
     
 - Factorization to:
     * fill in missing values
