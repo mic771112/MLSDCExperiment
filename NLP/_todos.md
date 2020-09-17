@@ -1,6 +1,17 @@
-TODOS:
 
-- 
+
+- TODOS:
+    v *spell correction
+    v *bert embedding/ USE.
+    v *more pretrained embedding
+    *evaluation stratagy(SV...)
+    *augumentation
+    *TTA
+    *optimization tricks, top K loss ...
+    
+    *ensemble/stacking
+    
+
 
 - Found worthy to explore:
     *o linear model can do well already
@@ -12,6 +23,11 @@ TODOS:
     * worng classified check
     *x skip char model (f**k you)
     
+    
+
+    
+    
+    
     * how to eval embedded quality???????
 
     * char level embedding 
@@ -22,6 +38,11 @@ TODOS:
     * spell check
     * TTA
     * 
+    
+    
+    1. https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52557
+    2. https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52612
+    3. https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/discussion/52644
     
 - Factorization to:
     * fill in missing values

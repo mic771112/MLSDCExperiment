@@ -6,3 +6,5 @@ _*.ipynb
 *.zip
 *model.png*
 **/jigsaw-toxic-comment-classification-challenge/
+*.bin
+*.gz
